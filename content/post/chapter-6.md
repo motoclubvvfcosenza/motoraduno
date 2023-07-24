@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:27:05-04:00
 description: "Programma"
 featured_image: "/images/motociclisti_al_tramonto_reduced.jpg"
 tags: []

@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:23:05-04:00
 description: "Motogiro 23 Pomeriggio"
 featured_image: "/images/Motogiro4.png"
 tags: []
