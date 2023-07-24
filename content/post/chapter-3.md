@@ -1,100 +1,86 @@
 ---
-date: 2017-04-11T11:13:32-04:00
-description: "Motogiro 22 Pomeriggio"
-featured_image: ""
-tags: []
-title: "Motogiro 22 Pomeriggio"
+date: 2017-04-12T11:14:48-04:00
+description: "Master Jacques Coppenole"
+featured_image: "/images/Motogiro3.png"
+tags: ["scene"]
+title: "Motogiro 23 Mattina"
 ---
+While the pensioner of Ghent and his eminence were exchanging very low
+bows and a few words in voices still lower, a man of lofty stature, with a
+large face and broad shoulders, presented himself, in order to enter
+abreast with Guillaume Rym; one would have pronounced him a bull-dog by
+the side of a fox. His felt doublet and leather jerkin made a spot on the
+velvet and silk which surrounded him. Presuming that he was some groom who
+had stolen in, the usher stopped him.
 
-Poor Gringoire! the din of all the great double petards of the Saint-Jean,
-the discharge of twenty arquebuses on supports, the detonation of that
-famous serpentine of the Tower of Billy, which, during the siege of Paris,
-on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians
-at one blow, the explosion of all the powder stored at the gate of the
-Temple, would have rent his ears less rudely at that solemn and dramatic
-moment, than these few words, which fell from the lips of the usher, “His
-eminence, Monseigneur the Cardinal de Bourbon.”
+“Hold, my friend, you cannot pass!”
 
-It is not that Pierre Gringoire either feared or disdained monsieur the
-cardinal. He had neither the weakness nor the audacity for that. A true
-eclectic, as it would be expressed nowadays, Gringoire was one of those
-firm and lofty, moderate and calm spirits, which always know how to bear
-themselves amid all circumstances (_stare in dimidio rerum_), and who
-are full of reason and of liberal philosophy, while still setting store by
-cardinals. A rare, precious, and never interrupted race of philosophers to
-whom wisdom, like another Ariadne, seems to have given a clew of thread
-which they have been walking along unwinding since the beginning of the
-world, through the labyrinth of human affairs. One finds them in all ages,
-ever the same; that is to say, always according to all times. And, without
-reckoning our Pierre Gringoire, who may represent them in the fifteenth
-century if we succeed in bestowing upon him the distinction which he
-deserves, it certainly was their spirit which animated Father du Breul,
-when he wrote, in the sixteenth, these naively sublime words, worthy of
-all centuries: “I am a Parisian by nation, and a Parrhisian in language,
-for _parrhisia_ in Greek signifies liberty of speech; of which I have
-made use even towards messeigneurs the cardinals, uncle and brother to
-Monsieur the Prince de Conty, always with respect to their greatness, and
-without offending any one of their suite, which is much to say.”
+The man in the leather jerkin shouldered him aside.
 
-There was then neither hatred for the cardinal, nor disdain for his
-presence, in the disagreeable impression produced upon Pierre Gringoire.
-Quite the contrary; our poet had too much good sense and too threadbare a
-coat, not to attach particular importance to having the numerous allusions
-in his prologue, and, in particular, the glorification of the dauphin, son
-of the Lion of France, fall upon the most eminent ear. But it is not
-interest which predominates in the noble nature of poets. I suppose that
-the entity of the poet may be represented by the number ten; it is certain
-that a chemist on analyzing and pharmacopolizing it, as Rabelais says,
-would find it composed of one part interest to nine parts of self-esteem.
+“What does this knave want with me?” said he, in stentorian tones, which
+rendered the entire hall attentive to this strange colloquy. “Don’t you
+see that I am one of them?”
 
-Now, at the moment when the door had opened to admit the cardinal, the
-nine parts of self-esteem in Gringoire, swollen and expanded by the breath
-of popular admiration, were in a state of prodigious augmentation, beneath
-which disappeared, as though stifled, that imperceptible molecule of which
-we have just remarked upon in the constitution of poets; a precious
-ingredient, by the way, a ballast of reality and humanity, without which
-they would not touch the earth. Gringoire enjoyed seeing, feeling,
-fingering, so to speak an entire assembly (of knaves, it is true, but what
-matters that?) stupefied, petrified, and as though asphyxiated in the
-presence of the incommensurable tirades which welled up every instant from
-all parts of his bridal song. I affirm that he shared the general
-beatitude, and that, quite the reverse of La Fontaine, who, at the
-presentation of his comedy of the “Florentine,” asked, “Who is the
-ill-bred lout who made that rhapsody?” Gringoire would gladly have
-inquired of his neighbor, “Whose masterpiece is this?”
+“Your name?” demanded the usher.
 
-The reader can now judge of the effect produced upon him by the abrupt and
-unseasonable arrival of the cardinal.
+“Jacques Coppenole.”
 
-That which he had to fear was only too fully realized. The entrance of his
-eminence upset the audience. All heads turned towards the gallery. It was
-no longer possible to hear one’s self. “The cardinal! The cardinal!”
-repeated all mouths. The unhappy prologue stopped short for the second
-time.
+“Your titles?”
 
-The cardinal halted for a moment on the threshold of the estrade. While he
-was sending a rather indifferent glance around the audience, the tumult
-redoubled. Each person wished to get a better view of him. Each man vied
-with the other in thrusting his head over his neighbor’s shoulder.
+“Hosier at the sign of the ‘Three Little Chains,’ of Ghent.”
 
-He was, in fact, an exalted personage, the sight of whom was well worth
-any other comedy. Charles, Cardinal de Bourbon, Archbishop and Comte of
-Lyon, Primate of the Gauls, was allied both to Louis XI., through his
-brother, Pierre, Seigneur de Beaujeu, who had married the king’s eldest
-daughter, and to Charles the Bold through his mother, Agnes of Burgundy.
-Now, the dominating trait, the peculiar and distinctive trait of the
-character of the Primate of the Gauls, was the spirit of the courtier, and
-devotion to the powers that be. The reader can form an idea of the
-numberless embarrassments which this double relationship had caused him,
-and of all the temporal reefs among which his spiritual bark had been
-forced to tack, in order not to suffer shipwreck on either Louis or
-Charles, that Scylla and that Charybdis which had devoured the Duc de
-Nemours and the Constable de Saint-Pol. Thanks to Heaven’s mercy, he had
-made the voyage successfully, and had reached home without hindrance. But
-although he was in port, and precisely because he was in port, he never
-recalled without disquiet the varied haps of his political career, so long
-uneasy and laborious. Thus, he was in the habit of saying that the year
-1476 had been “white and black” for him—meaning thereby, that in the
-course of that year he had lost his mother, the Duchesse de la
-Bourbonnais, and his cousin, the Duke of Burgundy, and that one grief had
-consoled him for the other.
+The usher recoiled. One might bring one’s self to announce aldermen and
+burgomasters, but a hosier was too much. The cardinal was on thorns. All
+the people were staring and listening. For two days his eminence had been
+exerting his utmost efforts to lick these Flemish bears into shape, and to
+render them a little more presentable to the public, and this freak was
+startling. But Guillaume Rym, with his polished smile, approached the
+usher.
+
+“Announce Master Jacques Coppenole, clerk of the aldermen of the city of
+Ghent,” he whispered, very low.
+
+“Usher,” interposed the cardinal, aloud, “announce Master Jacques
+Coppenole, clerk of the aldermen of the illustrious city of Ghent.”
+
+This was a mistake. Guillaume Rym alone might have conjured away the
+difficulty, but Coppenole had heard the cardinal.
+
+“No, cross of God?” he exclaimed, in his voice of thunder, “Jacques
+Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross
+of God! hosier; that’s fine enough. Monsieur the Archduke has more than
+once sought his _gant_\* in my hose.”
+
+_*  Got the first idea of a timing._
+
+Laughter and applause burst forth. A jest is always understood in Paris,
+and, consequently, always applauded.
+
+Let us add that Coppenole was of the people, and that the auditors which
+surrounded him were also of the people. Thus the communication between him
+and them had been prompt, electric, and, so to speak, on a level. The
+haughty air of the Flemish hosier, by humiliating the courtiers, had
+touched in all these plebeian souls that latent sentiment of dignity still
+vague and indistinct in the fifteenth century.
+
+This hosier was an equal, who had just held his own before monsieur the
+cardinal. A very sweet reflection to poor fellows habituated to respect
+and obedience towards the underlings of the sergeants of the bailiff of
+Sainte-Geneviève, the cardinal’s train-bearer.
+
+Coppenole proudly saluted his eminence, who returned the salute of the
+all-powerful bourgeois feared by Louis XI. Then, while Guillaume Rym, a
+“sage and malicious man,” as Philippe de Comines puts it, watched them
+both with a smile of raillery and superiority, each sought his place, the
+cardinal quite abashed and troubled, Coppenole tranquil and haughty, and
+thinking, no doubt, that his title of hosier was as good as any other,
+after all, and that Marie of Burgundy, mother to that Marguerite whom
+Coppenole was to-day bestowing in marriage, would have been less afraid of
+the cardinal than of the hosier; for it is not a cardinal who would have
+stirred up a revolt among the men of Ghent against the favorites of the
+daughter of Charles the Bold; it is not a cardinal who could have
+fortified the populace with a word against her tears and prayers, when the
+Maid of Flanders came to supplicate her people in their behalf, even at
+the very foot of the scaffold; while the hosier had only to raise his
+leather elbow, in order to cause to fall your two heads, most illustrious
+seigneurs, Guy d’Hymbercourt and Chancellor Guillaume Hugonet.
