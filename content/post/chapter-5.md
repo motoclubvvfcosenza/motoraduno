@@ -7,7 +7,7 @@ disable_share: true
 ---
 ## Partenza ore 9:00 base esercito
 
-{{< figure src="/images/Motogiro1.png" >}}
+{{< figure src="images/Motogiro1.png" >}}
 
 [Apri il percorso con Google Maps](https://goo.gl/maps/rmQvxmGZGHqy28d88)
 
