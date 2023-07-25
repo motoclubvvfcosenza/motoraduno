@@ -7,7 +7,7 @@ disable_share: true
 ---
 
 ## Partenza ore 15:00 Lorica - Camping Lago Arvo 
-{{< figure src="images/Motogiro4.png" >}}
+{{< figure src="vvf-web/images/Motogiro4.png" >}}
 
 [Apri il percorso con Google Maps](https://goo.gl/maps/3jzqQbQK83qmQSrn9)
 
