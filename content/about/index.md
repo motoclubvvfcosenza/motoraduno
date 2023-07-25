@@ -1,7 +1,7 @@
 ---
 title: "Info"
 description: "Informazioni e costi"
-featured_image: ''
+featured_image: '/images/motociclisti_al_tramonto_reduced.jpg'
 menu:
   main:
     weight: 1

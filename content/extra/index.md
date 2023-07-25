@@ -1,9 +1,9 @@
 ---
-title: "Extra"
-description: "Attività consigliate nella splendida cornice della Sila"
-featured_image: ''
+title: "Contatti"
+description: "Per ulteriori informazioni e prenotazioni non esitare a contattarci tramite i canali elencati"
+featured_image: '/images/motociclisti_al_tramonto_reduced.jpg'
 menu:
   main:
     weight: 3
 ---
-Pagina in aggiornamento
+Tel. 
