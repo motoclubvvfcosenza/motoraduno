@@ -18,3 +18,15 @@ disable_share: true
 
 ## Domenica 24 Settembre
 {{< time-line-4 >}}
+
+Il pomeriggio di domenica per chi riparte il lunedì è lasciato libero con indicazioni da parte degli organizzatori su varie attività da poter svolgere nella Sila. 
+
+### Visita i link per scoprire tutte le attività disponibili nella splendida Sila
+
+[Bike Boat & battello sul Lago Arvo](https://www.loricaly.it/attivita/)
+
+[Io volo sul Lago Arvo & Parco Avventura](https://www.silavventura.it/)
+
+[Visita ai Giganti della Sila](https://fondoambiente.it/luoghi/i-giganti-della-sila)
+
+[Noleggio bici e/o E-bike](https://www.civitatis.com/it/camigliatello-silano/noleggio-bici-camigliatello-silano/#dettagli)
