@@ -6,4 +6,4 @@ menu:
   main:
     weight: 1
 ---
-Pagina in aggiornamento
+Pagina in aggiornamento...
