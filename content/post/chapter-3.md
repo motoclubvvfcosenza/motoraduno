@@ -6,7 +6,7 @@ title: "Motogiro 23 Mattina"
 disable_share: true
 ---
 ## Partenza ore 10:00 base esercito
-{{< figure src="vvf-web/images/Motogiro3.png" >}}
+{{< figure src="images/Motogiro3.png" >}}
 
 [Apri il percorso con Google Maps](https://goo.gl/maps/y5QWou96AmodiHqP6)
 
