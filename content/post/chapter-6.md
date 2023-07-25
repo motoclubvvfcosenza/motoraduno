@@ -4,6 +4,7 @@ description: "Programma"
 featured_image: "/images/motociclisti_al_tramonto_reduced.jpg"
 tags: []
 title: "Programma"
+disable_share: true
 ---
 ## Giovedì 21 Settembre
 
