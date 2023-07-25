@@ -1,5 +1,5 @@
 title = "57° Raduno Nazionale Motoclub VVF Italia - Cosenza"
-baseURL = "https://gaetano-pa.github.io/vvf-web/"
+baseURL = "https://motoclubvvfcosenza.github.io/motoraduno/"
 languageCode = "it"
 theme = "ananke"
 resourceDir = "../resources"
