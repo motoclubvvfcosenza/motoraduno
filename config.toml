@@ -36,3 +36,7 @@ enableRobotsTXT = true
       name = "facebook"
       url = "https://www.facebook.com/MotoclubVVFCS/"
 
+[[params.ananke_socials]]
+      name = "instagram"
+      url = "https://instagram.com/motoclubvigilidelfuoco_cosenza?igshid=MjEwN2IyYWYwYw=="
+
