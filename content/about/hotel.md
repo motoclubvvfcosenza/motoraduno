@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:24:05-04:00
 title: "Soggiorno in Hotel"
 description: "Hotel Meranda - Camigliatello Silano (CS)"
 featured_image: '/images/motociclisti_al_tramonto_reduced.jpg'

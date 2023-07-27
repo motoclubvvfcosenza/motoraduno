@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:23:05-04:00
 title: "Solo ristorazione"
 description: "Servizio ristorazione proposto dalla Base Logistica dell'Esercito"
 featured_image: '/images/base.jpeg'

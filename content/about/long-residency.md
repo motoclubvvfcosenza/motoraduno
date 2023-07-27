@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:27:05-04:00
 title: "Soggiorno 4 notti"
 description: "Arrivo giovedì 21 settembre - Partenza lunedì 25 settembre "
 featured_image: '/images/base.jpeg'

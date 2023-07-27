@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:22:05-04:00
 title: "Menu"
 description: "Il menu proposto dalla Base Logistica dell'Esercito per le giornate del raduno"
 featured_image: '/images/menu.jpg'

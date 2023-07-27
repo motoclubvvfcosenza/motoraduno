@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:26:05-04:00
 title: "Soggiorno 3 notti"
 description: "Arrivo giovedì 21 settembre - Partenza domenica 24 settembre "
 featured_image: '/images/base.jpeg'

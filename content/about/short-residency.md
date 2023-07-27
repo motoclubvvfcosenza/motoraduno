@@ -1,4 +1,5 @@
 ---
+date: 2017-04-09T11:25:05-04:00
 title: "Soggiorno 2 notti"
 description: "Arrivo venerdì 22 settembre - Partenza domenica 24 settembre "
 featured_image: '/images/base.jpeg'
