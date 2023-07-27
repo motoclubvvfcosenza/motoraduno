@@ -6,17 +6,20 @@ tags: []
 title: "Programma Raduno"
 disable_share: true
 ---
-## Giovedì 21 Settembre
+## giovedì 21 settembre
 
 {{< time-line-1 >}}
 
-## Venerdì 22 Settembre
+## venerdì 22 settembre
+
 {{< time-line-2 >}}
 
-## Sabato 23 Settembre
+## sabato 23 settembre
+
 {{< time-line-3 >}}
 
-## Domenica 24 Settembre
+## domenica 24 settembre
+
 {{< time-line-4 >}}
 
 Il pomeriggio di domenica per chi riparte il lunedì è lasciato libero con indicazioni da parte degli organizzatori su varie attività da poter svolgere nella Sila. 

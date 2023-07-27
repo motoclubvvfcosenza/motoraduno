@@ -22,3 +22,5 @@ comprendente un fantastico **kit di benvenuto con numerosi** gadget ed una ricca
 **Per info e prenotazioni visita la sezione [Contatti]({{< ref "/contacts/index" >}})**
 
 **Affrettati i posti sono limitati**
+
+_È possibile usufruire dei servizi di trasporto moto da tutta Italia e noleggio moto in città a Cosenza per l’intera durata del raduno_

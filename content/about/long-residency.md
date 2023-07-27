@@ -9,6 +9,8 @@ disable_share: true
 {{< figure src="images/base.jpeg" >}}
 
 Il pacchetto comprende pensione completa per le giornate di venerdì, sabato e domenica.
-Sono incluse nel prezzo la cena di benvenuto di giovedì e la colazione del lunedì mattina. 
+Sono incluse nel prezzo la cena di benvenuto di giovedì e la colazione del lunedì mattina 
+
+Visita il [Menu]({{< ref "/about/menu.md" >}}) per scoprire le proposte per i pranzi e le cene del motoraduno
 
 **Totale a persona € 207,82** 
