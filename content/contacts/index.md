@@ -6,4 +6,8 @@ menu:
   main:
     weight: 3
 ---
-Tel. 
+#### Per informazioni
+Resp sez. Cosenza _Pierpaolo_ (+39) 347 092 2504
+
+#### Per prenotazioni
+Segreteria _Teresa_ (+39) 340 076 5797
