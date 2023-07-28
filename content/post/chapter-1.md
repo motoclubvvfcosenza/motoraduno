@@ -7,6 +7,6 @@ disable_share: true
 ---
 ## Partenza ore 10:00 base esercito
 
-Si raggiungerà il centro di **Camiglitello Silano** percorrendo la **SP256 – Moccone** e si parcheggerà in un idoneo spazio messo a disposizione dal Comune di Spezzano della Sila (CS)
+Si raggiungerà il centro di **Camiglitello Silano** percorrendo la **SP 256 – Moccone** e si parcheggerà in un idoneo spazio messo a disposizione dal Comune di Spezzano della Sila (CS)
 
 Ritorno previsto per le **12:30 circa** in struttura Base Logistica via **SS 107** interessando gli svincoli di **Camigliatello Silano – Fago del Soldato**.

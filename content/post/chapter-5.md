@@ -11,14 +11,14 @@ disable_share: true
 
 [Apri il percorso con Google Maps](https://goo.gl/maps/rmQvxmGZGHqy28d88)
 
-Si accede alla **S.S. 107** da **svincolo Fago** fino a **svincolo Croce di Magara**, proseguendo dalla **S.P. 207** fino all’incrocio con la **S.P. 208** in località **Germano**
+Si accede alla **SS 107** da **svincolo Fago** fino a **svincolo Croce di Magara**, proseguendo dalla **SP 207** fino all’incrocio con la **SP 208** in località **Germano**
 
-Una volta percorsa S.P. 208 si giungerà 
-alla loc. **Fossiata** all’incrocio con la **S.P. 255**
+Una volta percorsa **SP 208** si giungerà 
+alla loc. **Fossiata** all’incrocio con la **SP 255**
 
 Nei pressi del parcheggio area pic-nic si lasceranno le moto in sosta durante la visita del vivaio.
 Terminata la visita guidata presso il vivaio, a cura del reparto biodiversità dei Carabinieri, si ripartirà orientativamente per le **12:00** per fare rientro presso la base dell’esercito di Fago del
 Soldato
 
-Si percorrerà la **S.P.255** fino all’incrocio con la **S.S. 177** passando per loc. **Cupone – campo San Lorenzo** riprendendo la **SS 107** dagli svincoli di **Camigliatello Silano** fino a **Fago
+Si percorrerà la **SP 255** fino all’incrocio con la **SS 177** passando per loc. **Cupone – campo San Lorenzo** riprendendo la **SS 107** dagli svincoli di **Camigliatello Silano** fino a **Fago
 del soldato**

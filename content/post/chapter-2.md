@@ -12,7 +12,7 @@ disable_share: true
 [Apri il percorso con Google Maps](https://goo.gl/maps/3jzqQbQK83qmQSrn9)
 
 Ripartendo dal camping dove è previsto il pranzo, si farà un giro intorno al **lago Arvo** percorrendo la **SS 108 bis** direzione **Barachella – Quaresima – Rovale – Pino Collito** fino al bivio
-della **SS107** di **Torre Garga** direzione **San Giovanni in Fiore** fino allo svincolo prossimo al distaccamento
+della **SS 107** di **Torre Garga** direzione **San Giovanni in Fiore** fino allo svincolo prossimo al distaccamento
 
  Si svolgerà una benedizione dei caschi e un breve aperitivo per poi rientrare presso la base via **SS 107**
 
