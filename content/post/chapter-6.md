@@ -24,7 +24,14 @@ disable_share: true
 
 Il pomeriggio di domenica per chi riparte il lunedì è lasciato libero con indicazioni da parte degli organizzatori su varie attività da poter svolgere nella Sila. 
 
-### Visita i link per scoprire tutte le attività disponibili nella splendida Sila
+### Per scoprire tutte le attività disponibili nella splendida cornice della Sila visita il sito
+[Destinazione Sila](https://www.destinazionesila.it) 
+
+tel. +39 342 059 1020
+
+#destinazionesila
+
+### oppure visita i link 
 
 [Bike Boat & battello sul Lago Arvo](https://www.loricaly.it/attivita/)
 
