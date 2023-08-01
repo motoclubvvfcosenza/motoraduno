@@ -20,6 +20,7 @@ comprendente un fantastico **kit di benvenuto con numerosi** gadget ed una ricca
 (_sono escluse le spese di pernottamento e pensione che trovi nel dettaglio a seconda della soluzione che preferisci_) 
 
 **Per info e prenotazioni visita la sezione [Contatti]({{< ref "/contacts/index" >}})**
+    
 In fase di **prenotazione** sarà necessario versare una quota di **45€ a persona** (20€ relative al costo dell'iscrizione + 25€ relative al pranzo del sabato) per bloccare la prenotazione
 
 _I 25€ del costo del pranzo del sabato saranno detratti dal totale del soggiorno al momento del saldo_
