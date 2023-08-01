@@ -23,6 +23,8 @@ comprendente un fantastico **kit di benvenuto con numerosi** gadget ed una ricca
     
 In fase di **prenotazione** sarà necessario versare una quota di **45€ a persona** (20€ relative al costo dell'iscrizione + 25€ relative al pranzo del sabato) per bloccare la prenotazione
 
+_**La quota di prenotazione non è in nessun caso rimborsabile**_
+
 _I 25€ del costo del pranzo del sabato saranno detratti dal totale del soggiorno al momento del saldo_
 
 **Affrettati i posti sono limitati**
