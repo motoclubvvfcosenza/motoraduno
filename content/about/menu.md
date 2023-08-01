@@ -5,6 +5,7 @@ description: "Il menu proposto dalla Base Logistica dell'Esercito per le giornat
 featured_image: '/images/menu.jpg'
 disable_share: true
 --- 
+Per intolleranze o esigenze particolari si prega di informare gli organizzatori in fase di prenotazione
 ## Menu 21/09/23
 ### _Cena_
 
