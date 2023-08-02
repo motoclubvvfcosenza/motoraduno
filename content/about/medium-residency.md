@@ -15,3 +15,5 @@ Sono incluse nel prezzo la cena di benvenuto di giovedì e la colazione di domen
 Visita il [Menu]({{< ref "/about/menu.md" >}}) per scoprire le proposte per i pranzi e le cene del motoraduno
 
 **Totale a persona € 165,52** 
+
+**I pagamenti presso la struttura della Base Logistica dell'Esercito dovranno avvenire esclusivamente con carte e/o bancomat tramite POS**
