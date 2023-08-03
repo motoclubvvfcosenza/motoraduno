@@ -12,6 +12,10 @@ featured_image: '/images/motociclisti_al_tramonto_reduced.jpg'
 
 _Visita il dettaglio dei costi per ogni soluzione proposta_
 
+_La struttura della Base Logistica dell'Esercito dispone di **camere doppie, matrimoniali o triple**_
+
+_Per esigenza di camere singole si prega di contattare gli organizzatori_
+
 **I pagamenti presso la struttura della Base Logistica dell'Esercito dovranno avvenire esclusivamente con carte e/o bancomat tramite POS**
 
 In alternativa si potrà pernottare presso l'_Hotel Meranda_ sempre nella suggestiva Camigliatello (_vedi il dettaglio Soggiorno in hotel o visita il sito [Hotel Meranda](http://www.hotelmeranda.com/)_).
