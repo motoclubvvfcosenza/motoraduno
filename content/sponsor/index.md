@@ -25,7 +25,7 @@ menu:
 
 {{< figure src="images/Quallitaly.png" link="https://www.qualitalystore.it/" >}}
 
-{{< figure src="images/gmoto.png" link="https://www.facebook.com/profile.php?id=100089708746397" >}}
+{{< figure src="images/gmoto.png" link="https://instagram.com/gmotocosenza?igshid=YmMyMTA2M2Y=" >}}
 
 {{< figure src="images/yamaha.png" link="https://www.facebook.com/TrendyMoto/?locale=it_IT" >}}
 
