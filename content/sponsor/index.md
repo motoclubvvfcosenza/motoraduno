@@ -29,7 +29,7 @@ menu:
 
 {{< figure src="images/yamaha.png" link="https://www.facebook.com/TrendyMoto/?locale=it_IT" >}}
 
-{{< figure src="images/gualtieri.png" link="https://gualtieribsafe.com/" >}}
+{{< figure src="images/gualtieri.png" link="https://instagram.com/gualtierisafebikers?igshid=MmIzYWVlNDQ5Yg==" >}}
 
 {{< figure src="images/logo fammi spazio.png" link="https://fammispazio.it/" >}}
 
