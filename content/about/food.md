@@ -9,4 +9,6 @@ Per chi alloggia al di fuori della struttura della Base Logistica vi è la possi
 
 Il costo del solo servizio di ristorazione è di **€ 23,20 a pranzo** e **€ 22,20 per la cena**
 
+**I pagamenti presso la struttura della Base Logistica dell'Esercito dovranno avvenire esclusivamente con carte e/o bancomat tramite POS**
+
 Visita il [Menu]({{< ref "/about/menu.md" >}}) per scoprire le proposte per i pranzi e le cene del motoraduno
