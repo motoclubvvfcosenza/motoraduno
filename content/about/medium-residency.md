@@ -8,6 +8,7 @@ disable_share: true
 ### Soggiorno presso la struttura della Base Logistica dell'Esercito - Camigliatello Silano (CS)
 
 {{< figure src="images/base.jpeg" >}}
+[Clicca per scoprire come raggiungere la Base](https://maps.app.goo.gl/RJBR5VqR5SRJdXDfA?g_st=iw)
 
 Il pacchetto comprende pensione completa per le giornate di venerdì e sabato.
 Sono incluse nel prezzo la cena di benvenuto di giovedì e la colazione di domenica mattina 
