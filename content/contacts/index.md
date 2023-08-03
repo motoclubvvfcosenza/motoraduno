@@ -13,3 +13,7 @@ menu:
 #### Segreteria _Teresa_ 
 
 (+39) 340 076 5797
+
+#### Email
+
+cosenza@motoclubvvf.it
