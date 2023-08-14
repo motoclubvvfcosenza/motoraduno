@@ -37,6 +37,15 @@ _I 25€ del costo del pranzo del sabato saranno detratti dal totale del soggior
 
 Il pagamento può essere effettuato tramite bonifico bancario **IBAN IT82N3608105138230719430758** oppure tramite ricarica _postepay_ (le informazioni per la ricarica saranno fornite in privato)
 
+**Attenzione!** Quando effettui il bonifico ricorda di indicare: 
+**Intestazione** 
+: Piertro Paolo Carè 
+
+**Causale**
+: _Sezione_
+: _Nome Cognome_
+: _Arrivo e partenza_
+
 **Affrettati i posti sono limitati**
 
 _È possibile usufruire dei servizi di trasporto moto da tutta Italia e noleggio moto in città a Cosenza per l’intera durata del raduno_

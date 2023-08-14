@@ -8,6 +8,7 @@ cascade:
   featured_image: '/images/motociclisti_al_tramonto_reduced.jpg'
 
 ---
+{{< alert >}}
 
 Il **Motoclub VVF Italia-Cosenza** presenta il **57° raduno nazionale**. L'evento è patrocinato dalla provincia di Cosenza e prevede un itinerario che si articola negli splendidi paesaggi del Parco Nazionale della Sila 
 
