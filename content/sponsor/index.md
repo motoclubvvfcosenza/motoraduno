@@ -47,3 +47,5 @@ menu:
 {{< figure src="images/guido.png" link="http://www.guidoartigrafiche.it/" >}}
 
 {{< figure src="images/aiello.png" link="https://www.caffeaiello.it/" >}}
+
+{{< figure src="images/antichevigne.png" link="https://www.antichevigne.com" >}}
