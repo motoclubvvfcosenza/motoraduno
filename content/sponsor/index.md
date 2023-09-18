@@ -49,3 +49,5 @@ menu:
 {{< figure src="images/aiello.png" link="https://www.caffeaiello.it/" >}}
 
 {{< figure src="images/antichevigne.png" link="https://www.antichevigne.com" >}}
+
+{{< figure src="images/logo-calabria-straordinaria-pos.png" link="https://calabriastraordinaria.it/" >}}
